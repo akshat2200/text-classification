@@ -21,6 +21,7 @@ Building End-to-End deep learning model for any text classification problem usin
 
 ## Default Model parameters
 ---
+Sample data used to train model with default parameters can be downloaded from [link](https://www.kaggle.com/c/nlp-getting-started/data?select=test.csv)
 * Train File name: train.csv
 * Test File name: test.csv
 * Paddding size: 300
@@ -32,7 +33,7 @@ Building End-to-End deep learning model for any text classification problem usin
 
 ## Run on Demo Data
 ---
-This results are just capability of model, you can optimize it according to your own data by changing parameters
+These results are just capability of model, you can optimize it according to your own data by changing parameters
 
 <br />
 
